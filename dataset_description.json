@@ -1,0 +1,15 @@
+{
+  "Name": "OpenNeuro EEG Dataset",
+  "BIDSVersion": "1.8.0",
+  "DatasetType": "raw",
+  "License": "CC0",
+  "Authors": [
+    "Vedat TOPUZ"
+  ],
+  "GeneratedBy": [
+    {
+      "Name": "MATLAB EEG-BIDS Pipeline",
+      "Version": "1.0"
+    }
+  ]
+}
