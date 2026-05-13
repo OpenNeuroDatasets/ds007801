@@ -17,19 +17,37 @@ data:
         nameIdentifiers: []
         contributorType: Researcher
         order: 2
-      - name: İpek Midi
+      - name: İpek MİDİ
         givenName: ''
         familyName: ''
         nameType: Personal
         nameIdentifiers: []
         contributorType: Researcher
         order: 3
+      - name: Soner Deniz ERSOY
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 4
+      - name: Galip YARDIMCI
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 5
     creators:
       - name: Vedat TOPUZ
         nameType: Personal
       - name: Ayca AK
         nameType: Personal
-      - name: İpek Midi
+      - name: İpek MİDİ
+        nameType: Personal
+      - name: Soner Deniz ERSOY
+        nameType: Personal
+      - name: Galip YARDIMCI
         nameType: Personal
     descriptions:
       - description: N/A
