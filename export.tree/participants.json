@@ -1,8 +1,0 @@
-{
-  "age": {
-    "Description": "Participant age"
-  },
-  "sex": {
-    "Description": "Participant biological sex"
-  }
-}
